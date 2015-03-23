@@ -1,0 +1,1 @@
+LiVi is an add-on for the 3D content creation suite Blender that acts as pre/post-processor for the Radiance lighting simulation suite. LiVi allows static or animated Blender geometry/materiality to be exported to the Radiance format, controls the Radiance simulation, and imports the results back into Blender for visualisation.
